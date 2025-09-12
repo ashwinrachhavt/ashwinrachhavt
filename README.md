@@ -14,7 +14,7 @@
 **Tech Lead & AI Product Engineer @ Finally** (Feb 2024 – Present)  
 I lead product engineering for AI-driven finance systems—owning PRDs, technical specs, and delivery across a tight, cross-functional team. I design data/ML platforms, productionize LLM/RAG workflows, and ship resilient infra that powers customer-facing products.
 
-### 🔦 Spotlight: Finally
+### 🔦 Finally
 - **Classify AI (Founding engineer)** – Built the flagship AI bookkeeper from the ground up using few-shot classification with Elasticsearch retrieval and a Pinecone RAG store. Implemented LangChain workflows with Redis semantic caching and W&B observability. The system **processes 50,000+ transactions/day** and **cuts manual categorization time by ~80%**.  
 - **Merchant enrichment & async scale** – Integrated **Plaid** enriched transactions, merchant grouping optimizations, and **Celery** task processing; added ML-driven merchant categorization improvements.  
 - **Auto-reconciliation** – Built an automated matcher between Plaid-synced bank transactions and accounting entries, **reducing month-end close by ~50%** and eliminating common bookkeeping errors.  
