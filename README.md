@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Hi, I’m <a href="https://ashwinrachhawebsite.vercel.app/">Ashwin Rachha</a> 👋</h1>
 
-<!--
-**ashwinrachhavt/ashwinrachhavt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:ashwin.rachha@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/ashwinrachha">LinkedIn</a> •
+  <a href="https://github.com/ashwinrachhavt">GitHub</a> •
+  <a href="https://ashwinrachhawebsite.vercel.app/">Website</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+**Tech Lead & AI Product Engineer @ Finally** (Feb 2024 – Present)  
+I lead product engineering for AI-driven finance systems—owning PRDs, technical specs, and delivery across a tight, cross-functional team. I design data/ML platforms, productionize LLM/RAG workflows, and ship resilient infra that powers customer-facing products.
+
+### 🔦 Spotlight: Finally
+- **Classify AI (Founding engineer)** – Built the flagship AI bookkeeper from the ground up using few-shot classification with Elasticsearch retrieval and a Pinecone RAG store. Implemented LangChain workflows with Redis semantic caching and W&B observability. The system **processes 50,000+ transactions/day** and **cuts manual categorization time by ~80%**.  
+- **Merchant enrichment & async scale** – Integrated **Plaid** enriched transactions, merchant grouping optimizations, and **Celery** task processing; added ML-driven merchant categorization improvements.  
+- **Auto-reconciliation** – Built an automated matcher between Plaid-synced bank transactions and accounting entries, **reducing month-end close by ~50%** and eliminating common bookkeeping errors.  
+- **Bank Aggregator Infrastructure** – Architected core infra using **Plaid** and **Teller** APIs (OAuth/token mgmt, statement + webhook processing, continuous sync). This backbone powers corporate cards, bookkeeping, and **Classify AI v2** with richer metadata.  
+- **Cash-Based Underwriting (Corporate Cards)** – Launched a risk system that adjusts credit limits from real-time cash balances & spend patterns, **underwriting $3M+ across 50+ companies in 3 months** post-release.  
+- **Team leadership** – Led a high-velocity team of 3 engineers across the full lifecycle (PRDs → Tech Specs → delivery with OKRs).
+
+---
+
+## 🧠 Previously
+
+- **UNAR Labs — ML Engineering Intern**  
+  Built backend systems to enhance multisensory access for visually impaired users using CV + NLP; optimized data pipelines (OpenCV, PyTorch, Transformers, FastAPI) and deployed on GCP with Docker + Hugging Face.
+  
+- **Outreach — ML Platform Team (Intern)**  
+  Shipped scalable NLP inference on GKE, cutting BERT deployment from **3–4 days to ~30 minutes**. Built PySpark + MLflow text pipelines and deployed ONNX models on NVIDIA Triton; delivered Go/Python microservices with CI/CD (CircleCI).
+
+- **Mindbowser — Software Engineer (ML)**  
+  Delivered a facial expression recognition system for CRM meeting analysis (VGG-19 transfer learning, ~73% accuracy) with a Flask backend, RBAC/JWT, PostgreSQL + MongoDB GridFS, video ingestion/processing, and REST APIs for jobs/results.
+
+---
+
+## 🧩 Projects
+
+- **Gurukul LMS Platform** (Django, Next.js, TS, Tailwind, Prisma, Supabase, Docker, Vercel)  
+  Master’s thesis → **IEEE** publication. An LLM-enhanced learning environment with **RAG** + guardrails promoting Socratic problem-solving for DSA. Features a custom code editor, GPT-4 chatbot integration, problem tables, and an intelligent tutoring system.
+
+- **Neuralflow — AI-Powered Productivity** (Next.js, TS, Clerk Auth, Supabase)  
+  A focus/workflow app combining Pomodoro with Kanban. Currently adding AI-based ticket grooming and workflow structuring from unstructured input.
+
+---
+
+## 🛠️ Core Skills
+
+- **Programming**: Python, Go, Snowflake SQL  
+- **Web & Cloud**: Django, React, Next.js, TypeScript, TailwindCSS, FastAPI, AWS, PostgreSQL  
+- **ML/AI**: PyTorch, Hugging Face, LangChain, LangGraph, Pinecone, FAISS, Weights & Biases  
+- **DevOps & Scale**: Docker, Kubernetes, ArgoCD, Celery, Redis, Datadog, Sentry
+
+---
+
+## 🎓 Education
+
+- **Virginia Tech** — M.S. (Thesis) in Computer Science, **GPA 4.0/4.0**  
+- **PICT** — B.E. in Computer Science, **GPA 8.70/10.00**
+
+---
+
+## ✍️ Community & Writing
+
+- **Kaggle Expert (Top 1% Notebooks)** — Tutorials and competition write-ups  
+- Active blogger on LLMs, engineering, distributed inference, and more
+
+---
+
+### Let’s Connect
+- 📫 **ashwin.rachha@gmail.com**
+- 💼 **linkedin.com/in/ashwinrachha**
+- 💻 **github.com/ashwinrachhavt**
+- 🌐 **ashwinrachhawebsite.vercel.app**
