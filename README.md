@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 What I Do
+## 🚀 About me
 
 **Tech Lead & AI Product Engineer @ Finally** (Feb 2024 – Present)  
 I lead product engineering for AI-driven finance systems—owning PRDs, technical specs, and delivery across a tight, cross-functional team. I design data/ML platforms, productionize LLM/RAG workflows, and ship resilient infra that powers customer-facing products.
