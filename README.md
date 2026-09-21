@@ -11,10 +11,23 @@
 
 ## 🚀 About me
 
-**Tech Lead & AI Product Engineer @ Finally** (Feb 2024 – Present)  
-I lead product engineering for AI-driven finance systems—owning PRDs, technical specs, and delivery across a tight, cross-functional team. I design data/ML platforms, productionize LLM/RAG workflows, and ship resilient infra that powers customer-facing products.
+**Applied AI Engineer @ Loan Labs** (Jan 2026 – Present)  
+I build agentic products and financial software, from the underlying systems to the details people interact with. At Loan Labs, I’m building Lois for mortgage-document processing and internal and pilot workflows. Previously, I led AI product engineering at Finally.
+
+### 🔦 Loan Labs
+
+- **Lois — agentic mortgage workflows** — Re-architected Lois from one-off Ruby LLM calls into a LangGraph agentic system on Amazon Bedrock AgentCore for mortgage-document classification, lender-specific renaming, and policy validation.
+- **Agent APIs & product interfaces** — Built agent-facing Rails APIs, borrower email intake, and an in-product conversational interface so users could handle loan documents and initiate agent actions in LoanOS.
+- **Permission-safe integrations** — Designed fail-closed authorization for Composio integrations: tenant/owner scoping, separate write/send/merge/archive permissions, reviewed tool allowlists, and execution-time checks that invalidate revoked access.
+- **Connected business workflows** — Connected CRM and document workflows across Google Drive, Box, Salesforce, HubSpot, Pipedrive, OneDrive, and SharePoint with fine-grained access controls and blocked delete actions.
+- **Technical leadership** — Introduced an AI-assisted software delivery workflow linking Linear/Notion product context, technical specifications, shared company knowledge, and senior-engineer code review.
+
+**Stack:** `LangGraph` · `Amazon Bedrock` · `AgentCore Runtime` · `AgentCore Gateway` · `MCP` · `Ruby on Rails` · `Python` · `Composio`
 
 ### 🔦 Finally
+
+**Tech Lead & AI Product Engineer** · Feb 2024 – Jan 2026
+
 - **Classify AI (Founding engineer)** – Built the flagship AI bookkeeper from the ground up using few-shot classification with Elasticsearch retrieval and a Pinecone RAG store. Implemented LangChain workflows with Redis semantic caching and W&B observability. The system **processes 50,000+ transactions/day** and **cuts manual categorization time by ~80%**.  
 - **Merchant enrichment & async scale** – Integrated **Plaid** enriched transactions, merchant grouping optimizations, and **Celery** task processing; added ML-driven merchant categorization improvements.  
 - **Auto-reconciliation** – Built an automated matcher between Plaid-synced bank transactions and accounting entries, **reducing month-end close by ~50%** and eliminating common bookkeeping errors.  
@@ -52,6 +65,7 @@ I lead product engineering for AI-driven finance systems—owning PRDs, technica
 - **Programming**: Python, Go, Snowflake SQL  
 - **Web & Cloud**: Django, React, Next.js, TypeScript, TailwindCSS, FastAPI, AWS, PostgreSQL  
 - **ML/AI**: PyTorch, Hugging Face, LangChain, LangGraph, Pinecone, FAISS, Weights & Biases  
+- **Agentic systems**: Amazon Bedrock, AgentCore Runtime, AgentCore Gateway, MCP, Composio, Rails APIs  
 - **DevOps & Scale**: Docker, Kubernetes, ArgoCD, Celery, Redis, Datadog, Sentry
 
 ---
