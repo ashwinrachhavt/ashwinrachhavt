@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I’m <a href="https://ashwinrachhawebsite.vercel.app/">Ashwin Rachha</a> 👋</h1>
+<h1 align="center">Hi, I’m <a href="https://ashwinrachha.vercel.app/">Ashwin Rachha</a> 👋</h1>
 
 <p align="center">
   <a href="mailto:ashwin.rachha@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/ashwinrachha">LinkedIn</a> •
   <a href="https://github.com/ashwinrachhavt">GitHub</a> •
-  <a href="https://ashwinrachhawebsite.vercel.app/">Website</a>
+  <a href="https://ashwinrachha.vercel.app/">Website</a>
 </p>
 
 ---
@@ -28,25 +28,24 @@ I build agentic products and financial software, from the underlying systems to 
 
 **Tech Lead & AI Product Engineer** · Feb 2024 – Jan 2026
 
-- **Classify AI (Founding engineer)** – Built the flagship AI bookkeeper from the ground up using few-shot classification with Elasticsearch retrieval and a Pinecone RAG store. Implemented LangChain workflows with Redis semantic caching and W&B observability. The system **processes 50,000+ transactions/day** and **cuts manual categorization time by ~80%**.  
-- **Merchant enrichment & async scale** – Integrated **Plaid** enriched transactions, merchant grouping optimizations, and **Celery** task processing; added ML-driven merchant categorization improvements.  
-- **Auto-reconciliation** – Built an automated matcher between Plaid-synced bank transactions and accounting entries, **reducing month-end close by ~50%** and eliminating common bookkeeping errors.  
-- **Bank Aggregator Infrastructure** – Architected core infra using **Plaid** and **Teller** APIs (OAuth/token mgmt, statement + webhook processing, continuous sync). This backbone powers corporate cards, bookkeeping, and **Classify AI v2** with richer metadata.  
-- **Cash-Based Underwriting (Corporate Cards)** – Launched a risk system that adjusts credit limits from real-time cash balances & spend patterns, **underwriting $3M+ across 50+ companies in 3 months** post-release.  
-- **Team leadership** – Led a high-velocity team of 3 engineers across the full lifecycle (PRDs → Tech Specs → delivery with OKRs).
+- **Classify AI** — Joined as the first AI Product Engineer and led a three-engineer team from prototype to production; processed **50K+ transactions daily** and reduced manual categorization by **approximately 80%**.
+- **Retrieval and enrichment** — Built retrieval-augmented classification with LangChain, Pinecone, Elasticsearch, Redis, Celery, and Django, combining transaction history, merchant enrichment, and custom charts of accounts.
+- **Bookkeeping workflows** — Evolved CSV upload into Plaid/Teller ingestion, OCR-supported statements, reconciliation, and QuickBooks push; helped reduce **first-month close from 4+ months to approximately 2 weeks**.
+- **Bank Connections** — Architected reusable account linking, encrypted token storage, token lifecycle management, webhooks, transaction synchronization, and normalized account data.
+- **Cash Underwriting** — Built underwriting using 90-day bank data, reconstructed daily balances, weekly recalculation, audit history, and manual overrides; supported **$3M+ in credit for 50+ companies in approximately three months**. Credit and close metrics describe team outcomes.
 
 ---
 
 ## 🧠 Previously
 
-- **UNAR Labs — ML Engineering Intern**  
-  Built backend systems to enhance multisensory access for visually impaired users using CV + NLP; optimized data pipelines (OpenCV, PyTorch, Transformers, FastAPI) and deployed on GCP with Docker + Hugging Face.
+- **UNAR Labs — Machine Learning Engineer**
+  Built accessibility-focused backend and data pipelines for visually impaired users with OpenCV, PyTorch, Transformers, and FastAPI; deployed on GCP with Docker.
   
 - **Outreach — ML Platform Team (Intern)**  
-  Shipped scalable NLP inference on GKE, cutting BERT deployment from **3–4 days to ~30 minutes**. Built PySpark + MLflow text pipelines and deployed ONNX models on NVIDIA Triton; delivered Go/Python microservices with CI/CD (CircleCI).
+  Built reusable NLP inference and deployment infrastructure using PySpark, MLflow, ONNX, NVIDIA Triton, Go/Python microservices, Docker, CI/CD, and GKE.
 
 - **Mindbowser — Software Engineer (ML)**  
-  Delivered a facial expression recognition system for CRM meeting analysis (VGG-19 transfer learning, ~73% accuracy) with a Flask backend, RBAC/JWT, PostgreSQL + MongoDB GridFS, video ingestion/processing, and REST APIs for jobs/results.
+  Developed a facial-expression recognition system for CRM meeting analysis using VGG-19 transfer learning and MongoDB GridFS.
 
 ---
 
@@ -77,6 +76,16 @@ I build agentic products and financial software, from the underlying systems to 
 
 ---
 
+## 📚 Knowledge library
+
+Explore the [knowledge collection](knowledge/README.md): source-backed notes from my work, writing, and reading.
+
+- [Projects](knowledge/README.md#projects): Lois, Classify AI, Cash Underwriting, Bank Connections, UNAR Labs, Outreach Template Project, and Gurukul.
+- [Reading notes](knowledge/README.md#reading-notes) and [essay passages](knowledge/README.md#essay-passages) on agents, context, permissions, and reliable systems.
+- [For agents](knowledge/for-agents.md): stable IDs, source references, explicit connections, and a [structured public catalog](knowledge/public.json).
+
+---
+
 ## ✍️ Community & Writing
 
 - **Kaggle Expert (Top 1% Notebooks)** — Tutorials and competition write-ups  
@@ -88,4 +97,4 @@ I build agentic products and financial software, from the underlying systems to 
 - 📫 **ashwin.rachha@gmail.com**
 - 💼 **linkedin.com/in/ashwinrachha**
 - 💻 **github.com/ashwinrachhavt**
-- 🌐 **ashwinrachhawebsite.vercel.app**
+- 🌐 **ashwinrachha.vercel.app**
